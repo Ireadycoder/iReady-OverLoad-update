@@ -8,6 +8,7 @@ Download the chrome extension by clicking [here](https://github.com/cupiditys/iR
 Go to "chrome://extensions/", and on the top right make sure "Developer mode" is turned on (if your school blocks this, see the bookmarklet below)
 then unzip chromeExtension.zip and drag the "iReady Overload" folder onto the page and ur good
 
+If you need additional help add me on discord @ Ghost™#5309
 # Bookmarklet
 
 A bookmarklet can be used instead of the chrome extension, incase your school has blocked extentions. To do this, open the [raw bookmarklet](https://github.com/cupiditys/iReady-Overload/blob/main/bookmarklet.txt), and then highlight all of the text and drag it onto your bookmark bar. This will create a bookmark you can press while on the iReady website to open the iReady Overload menu.
