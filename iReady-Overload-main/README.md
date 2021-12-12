@@ -1,3 +1,4 @@
+update 12/12: do not use, there is a risk of your account being blocked. im working on an update so this wont happen again, but inconviently i have to go rn so itll be a few hours
 # iReady-Overload
 iReady is awful. It's the worst education tool anyone could ever use. I'm fed up with being forced to mindlessly watch the result of a greedy corporation that doesn't try in the SLIGHTEST to make their product enjoyable, or even acceptable. This repository is a collection of hacks and a chrome extension that ensures nobody has to suffer through iReady ever again. The current version has a lesson, quiz skipper, and a minutes hack. 
 
