@@ -12,4 +12,5 @@ XMLHttpRequest.prototype.send = function(body) {
 	this.realSend(JSON.stringify(newBody));
 }
 
-alert("Hack was enabled. All answers inputted in diagnostic will be correct.");
+alert("Hack was enabled. All answers inputted in diagnostic SHOULD be correct.");
+alert("This is not recommended as this rarely works.");
