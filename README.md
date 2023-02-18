@@ -1,5 +1,6 @@
 # overload-2023
 patched, uploaded just for reference
+feel free to modify the code, I don't care
 
 <p align="center"><img src="logo.jpg" alt="anti-iready-logo" width="43%" height="30%"/></p>
 
@@ -23,7 +24,7 @@ while (obviously) I try my hardest to prevent you from getting in trouble, there
 </details>
 
 ## Extra
-Credit to ArjhanToteck for being the original creator
+Credit to ArjhanToteck for being the original creator but since he abandoned work on it I stole it haha
 
 As shown below iReady's developer team has hilariously banned the text "iReady Overload" from their site so chances are they're reading this right now
 
