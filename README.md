@@ -2,6 +2,7 @@
 patched, uploaded just for reference
 feel free to modify the code, I don't care
 also, this isn't even the latest version, it's old.
+crap I forgot to rename it to deobfuscated.
 
 <p align="center"><img src="logo.jpg" alt="anti-iready-logo" width="43%" height="30%"/></p>
 
